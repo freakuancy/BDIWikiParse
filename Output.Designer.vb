@@ -76,7 +76,7 @@ Partial Class frmOutput
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "frmOutput"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Form1"
+        Me.Text = "Output"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

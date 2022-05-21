@@ -93,8 +93,9 @@ Public Class ParseTable
         html = Strings.Replace(html, "&nbsp;", " ")
         html = Strings.Replace(html, "&amp;", "&")
         html = Strings.Replace(html, "&rsquo;", "'")
-        html = Strings.Replace(html, "&rdquo", """")
-        html = Strings.Replace(html, "&apos", "'")
+        html = Strings.Replace(html, "&rdquo;", """")
+        html = Strings.Replace(html, "&apos;", "'")
+        html = Strings.Replace(html, "&quot;", """")
         html = Regex.Replace(html, "<.*?>", "")
         Return html
     End Function

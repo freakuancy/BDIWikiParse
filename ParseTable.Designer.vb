@@ -422,7 +422,7 @@ Partial Class ParseTable
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MinimumSize = New System.Drawing.Size(1021, 725)
         Me.Name = "ParseTable"
-        Me.Text = "Blk Dragon WikiParse v2.6"
+        Me.Text = "Blk Dragon WikiParse v2.6.2"
         Me.Panel1.ResumeLayout(False)
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.StatusStrip1.ResumeLayout(False)

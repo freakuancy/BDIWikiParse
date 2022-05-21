@@ -60,7 +60,7 @@ Partial Class frmMessage
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(207, 72)
         Me.Label1.TabIndex = 10
-        Me.Label1.Text = "BDI WikiParse v2.6" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "2022 Chris M. Bach" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "freakuancy@gmail.com" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        Me.Label1.Text = "BDI WikiParse v2.6.2" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "2022 Chris M. Bach" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "freakuancy@gmail.com" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'frmMessage
         '
